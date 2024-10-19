@@ -8,7 +8,7 @@ public class cbsepercentagecalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);// creating scanner object to use while initianting input
         System.out.println("Welcome to CBSE BOARD PERCENTAGE CALCULATOR ☺");
-        System.out.println("To calculate your board percentage please enter your marks: (chesedhi yemi ledu exam ayip0yindhi ipudu migilindhi resultey)" );
+        System.out.println("To calculate your board percentage please enter your marks: (DONT WORRY ABOUT THE RESULT,YOU HAVE GIVEN IT YOUR ALL)" );
         System.out.println("English:");;//taking inputs
         float eng = input.nextInt();
         System.out.println("Maths:");
